@@ -1,4 +1,4 @@
-# Hi, I'm J Ganesh 👋
+# Hi, I'm Ganesh 👋
 
 Staff Machine Learning Engineer, Ex-Microsoft · 10+ years in ML/AI · based in the US · sharing practical tutorials on **ML pipelines, LLM agents, and MLOps**.
 
