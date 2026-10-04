@@ -16,9 +16,3 @@ AI/ML content creator sharing practical tutorials on **Python, MLOps, and Cloud/
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
----
-
-### GitHub Stats
-
-![techwithjganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=techwithjganesh&show_icons=true&theme=default)
