@@ -1,8 +1,9 @@
 # Hi, I'm J Ganesh 👋
 
-Senior ML Engineer building production ML & GenAI systems — sharing practical tutorials on **ML pipelines, LLM agents, and MLOps**.
+Staff Machine Learning Engineer, Ex-Microsoft · 10+ years in ML/AI · based in the US · sharing practical tutorials on **ML pipelines, LLM agents, and MLOps**.
 
 - 🔭 Currently building production ML pipelines in the insurance tech space (workers' comp & disability outcome prediction)
+- 🧪 Researcher — published work on GANs and 3D CNNs (IEEE EMBC, Multimedia Tools & Applications)
 - 🌱 Exploring agentic AI, RAG systems, and LLM evaluation
 - 📸 Follow along: [@jganesh.ai](https://www.instagram.com/jganesh.ai)
 - 💬 Ask me about ML pipelines, LLM agents, or MLOps on Azure
